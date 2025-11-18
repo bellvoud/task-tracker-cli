@@ -1,5 +1,5 @@
 {
-  "name": "task-tracker-cli",
+  "name": "@bellvoud/task-tracker-cli",
   "version": "1.0.0",
   "description": "A simple CLI task tracker to manage your tasks",
   "main": "task-tracker-cli.js",
