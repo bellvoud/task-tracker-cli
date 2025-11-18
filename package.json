@@ -20,12 +20,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bellvoud/task-tracker.git"
+    "url": "https://github.com/bellvoud/task-tracker-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/bellvoud/task-tracker/issues"
+    "url": "https://github.com/bellvoud/task-tracker-cli/issues"
   },
-  "homepage": "https://github.com/bellvoud/task-tracker#readme",
+  "homepage": "https://github.com/bellvoud/task-tracker-cli#readme",
   "engines": {
     "node": ">=14.0.0"
   }
