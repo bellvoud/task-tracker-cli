@@ -195,7 +195,7 @@ function main() {
                 ================
 
                 Usage:
-                node task-cli.js <command> [arguments]
+                task-cli <command> [arguments]
 
                 Commands:
                 add <description>              Add a new task
@@ -209,13 +209,13 @@ function main() {
                 list in-progress               List all in-progress tasks
 
                 Examples:
-                node task-cli.js add "Buy groceries"
-                node task-cli.js update 1 "Buy groceries and cook dinner"
-                node task-cli.js delete 1
-                node task-cli.js mark-in-progress 1
-                node task-cli.js mark-done 1
-                node task-cli.js list
-                node task-cli.js list done
+                task-cli add "Buy groceries"
+                task-cli update 1 "Buy groceries and cook dinner"
+                task-cli delete 1
+                task-cli mark-in-progress 1
+                task-cli mark-done 1
+                task-cli list
+                task-cli list done
             `);
     }
 }
