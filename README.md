@@ -28,7 +28,7 @@ Clone the repository and link it locally:
 
 ```bash
 git clone https://github.com/bellvoud/task-tracker.git
-cd task-tracker-cli
+cd task-tracker
 npm link
 ```
 
