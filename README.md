@@ -91,7 +91,7 @@ Tasks are stored in a `tasks.json` file in the directory where you first run the
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
