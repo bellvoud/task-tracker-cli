@@ -17,7 +17,7 @@ A simple command-line task tracker to manage your tasks efficiently. Built as pa
 Install globally to use from anywhere:
 
 ```bash
-npm install -g task-tracker-cli
+npm i @bellvoud/task-tracker-cli
 ```
 
 After installation, you can use `task-cli` command from anywhere!
